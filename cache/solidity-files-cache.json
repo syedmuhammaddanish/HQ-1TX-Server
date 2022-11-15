@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\dannn\\OneDrive\\Documents\\Save-main\\contracts\\ConsumptionStorage.sol": {
+      "lastModificationDate": 1668460281469,
+      "contentHash": "a6763c6c9dda91513d65cb978e58bae1",
+      "sourceName": "contracts/ConsumptionStorage.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "ConsumptionStorage"
+      ]
+    },
+    "C:\\Users\\dannn\\OneDrive\\Documents\\Save-main\\contracts\\FinancialCom.sol": {
+      "lastModificationDate": 1668192420311,
+      "contentHash": "e62486fbc63df163e99096b7ae4508ed",
+      "sourceName": "contracts/FinancialCom.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "FinancialCom"
+      ]
+    }
+  }
+}

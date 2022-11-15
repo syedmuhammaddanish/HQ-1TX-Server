@@ -1,0 +1,31 @@
+{
+  "name": "dockertestingcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.29.0",
+    "@influxdata/influxdb-client-apis": "^1.29.0",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "fs-extra": "^10.1.0",
+    "hardhat": "^2.11.2",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.1",
+    "path": "^0.12.7",
+    "util": "^0.12.4",
+    "web3.storage": "^4.4.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
